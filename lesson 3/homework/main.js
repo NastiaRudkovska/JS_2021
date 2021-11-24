@@ -19,9 +19,9 @@ console.log(mix);
 //
 
 let empty = [];
-empty [1] = true ;
-empty [5] = 3 ;
-empty [7] = 'hello';
+empty[1] = true ;
+empty[5] = 3 ;
+empty[7] = 'hello';
 
 console.log(empty);
 
@@ -132,16 +132,8 @@ blank [8] = 22 ;
 blank [9] = true ;
 blank [10] = 'verona' ;
 
-console.log(blank[0]);
-console.log(blank[1]);
-console.log(blank[2]);
-console.log(blank[3]);
-console.log(blank[4]);
-console.log(blank[4]);
-console.log(blank[6]);
-console.log(blank[7]);
-console.log(blank[8]);
-console.log(blank[9]);
+console.log(blank);
+
 
 
 

@@ -23,7 +23,7 @@
 // let i = 0 ;
 // while ( i < numbers.length) {
 //
-//     if (i % 2 === 0) {
+//     if (і % 2 !==0) {
 //         console.log(numbers[i]);
 //     }
 //     i++;
@@ -43,7 +43,7 @@
 // let i = 0 ;
 // while ( i < numbers.length) {
 //
-//     if (i % 3 === 0) {
+//     if (numbers[i] % 2 === 0) {
 //         console.log(numbers[i]);
 //     }
 //     i++;
