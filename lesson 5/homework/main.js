@@ -3,7 +3,7 @@
 
 // let rectangle = (a,b) => a * b ;
 //
-// console.log(rectangle(8,10));
+// console.log(rectangle(12,5));
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-// let array = ['spring','summer',20,21, true];
+// let array = ['great','day',24,11, true];
 // let accept = (array) => {
 //
 //     for (let i = 0; i < array.length; i++) {
@@ -43,23 +43,11 @@
 //     document.write(`<p> ${text}</p>`);
 // }
 //
-// paragraf(`hello`);
+// paragraf(`hey you`);
 
 
 
 // - створити функцію яка  створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
-
-// let create = (text) >= {
-//     document.write(`<ul>`),
-//
-//     document.write(`<li>${text}</li>`),
-//     document.write(`<li>${text}</li>`),
-//     document.write(`<li>${text}</li>`),
-//
-//     document.write(`</ul>`),
-//
-// }
-// create(`you look great today`);
 
 
 // let create = (text) => {
@@ -80,7 +68,7 @@
 //     }
 //     document.write(`</ul>`)
 // }
-// ulul('Monday', 3);
+// ulul('Wednesday', 8);
 
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
 // let elements = ['mini', 34, false, 'maxi', 32 , true ];
