@@ -97,5 +97,21 @@
 // - Напишіть функцію, яка приймає рядок як аргумент і перетворює регістр першого символу рядка з нижнього регістру у верхній.
 //
 //
+
+// let str = 'such a beautiful  day';
+//
+// function firstUpper(stc) {
+//     return str[0].toUpperCase() + str.slice(1);
+// }
+//
+// console.log(firstUpper(str));
+
 //
 // - Напишіть функцію capitalize(str), яка повертає рядок, у якому кожне слово починається з великої літери.
+
+// let str = 'such a beautiful  day';
+// let capitalize = (str) => {
+//     return str.split(' ').map(word=>word.charAt(0).toUpperCase()+word.slice(1)).join(' ');
+// };
+//
+// console.log(capitalize(str));
