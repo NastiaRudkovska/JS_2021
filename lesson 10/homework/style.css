@@ -1,0 +1,16 @@
+.menu {
+    display: block;
+    justify-content: center;
+    background-color: bisque;
+
+}
+
+
+.menu.hidden {
+    display: none;
+}
+
+.hide {
+    height: 0;
+    overflow: hidden;
+}
