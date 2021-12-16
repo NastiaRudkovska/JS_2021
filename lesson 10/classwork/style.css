@@ -1,0 +1,33 @@
+.main form {
+
+ display: flex;
+    margin-top: 10px;
+    column-gap: 10px;
+
+
+}
+
+.main button {
+
+    height: 30px;
+    margin-top: 10px;
+    background-color: pink;
+}
+
+.second form {
+    display: flex;
+    column-gap: 10px;
+}
+
+.second button {
+    height: 30px;
+    margin-top: 10px;
+    background-color: pink;
+}
+
+
+.third button {
+    height: 30px;
+    background-color: pink;
+}
+
